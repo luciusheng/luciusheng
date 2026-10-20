@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. I'm Lucius. I'm studying Data Engineering at UTM
 
 <!--
 **luciusheng/luciusheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
